@@ -1,4 +1,4 @@
-# Private Ethereum Blockchain Creation and Smart Contract Deployment
+# Private Ethereum Blockchain Creation
 
 ## NAME:KAVIN RAJ S
 
